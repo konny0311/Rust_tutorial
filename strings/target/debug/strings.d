@@ -1,1 +1,1 @@
-/Users/kono/Desktop/Rust_tutorial/strings/target/debug/strings: /Users/kono/Desktop/Rust_tutorial/strings/src/main.rs
+/home/konotorie/rust_tutorial/strings/target/debug/strings: /home/konotorie/rust_tutorial/strings/src/main.rs
