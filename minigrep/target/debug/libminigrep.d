@@ -1,1 +1,1 @@
-/home/kono/myprojects/rust_tutorial/minigrep/target/debug/libminigrep.rlib: /home/kono/myprojects/rust_tutorial/minigrep/src/lib.rs
+/home/konotorie/rust_tutorial/minigrep/target/debug/libminigrep.rlib: /home/konotorie/rust_tutorial/minigrep/src/lib.rs
